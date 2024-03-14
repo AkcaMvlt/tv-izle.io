@@ -5,27 +5,27 @@ const channelsData = [
       name: "24 Horas",
       visibilidad: "",
       tipo: "video",
-      source: "https://www.youtube.com/embed/8YzOWIi3R2I?autoplay=1&mute=1&hd=1"
+      source: "https://www.youtube.com/embed/82O6yOy_XwE?si=ILByCnNWSBK2CnvL"
     },*/
     { 
-        id: "t13",
-        name: "T13",
+        id: "Star",
+        name: "Star",
         visibilidad: "",
-        source: "https://www.youtube.com/embed/Ove87nZ_1D4?autoplay=1&mute=1"
+        source: "https://www.youtube.com/embed/ILByCnNWSBK2CnvL?autoplay=1&mute=1"
     },
     { 
-        id: "meganoticias",
-        name: "MEGA Noticias",
+        id: "Star",
+        name: "Star",
         visibilidad: "",
         tipo: "video",
-        source: "https://www.youtube.com/embed/nVMhebdoMd4?autoplay=1&mute=1"
+        source: "https://www.youtube.com/embed/82O6yOy_XwE?si=ILByCnNWSBK2CnvL"
     },
     { 
         id: "cnnchile",
         name: "CNN Chile",
         visibilidad: "",
         tipo: "video",
-        source: "https://www.youtube.com/embed/7KOu4EGaM88?autoplay=1&mute=1"
+        source: "https://www.youtube.com/embed/ILByCnNWSBK2CnvL?autoplay=1&mute=1"
       },
       { 
           id: "nbcnews",
